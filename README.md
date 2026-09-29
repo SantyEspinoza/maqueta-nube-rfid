@@ -40,7 +40,14 @@ Funcional (con laptop vía USB)
 - Diseño de actividad pedagógica para niños.
 
 
+## Videos
 
+- [Demostración 1](https://youtube.com/shorts/_DwTXYbzKS8)
+- [Demostración 2](https://youtube.com/shorts/dPAWhla2VqM)
+
+## Fotos
+
+Las fotos de la maqueta están en `media/fotos/`.
 
 
 
